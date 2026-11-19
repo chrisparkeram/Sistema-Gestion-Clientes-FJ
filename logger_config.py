@@ -2,7 +2,7 @@
 Ejercicio 1: Sistema Integral de Gestión de Clientes, Servicios y Reservas
 Curso: Programación (213023) - Fase 4
 Tema: Programación orientada a objetos y manejo avanzado de excepciones
-Christian Melo Amaya
+Christian Melo Amaya y Eduardo Luis Flores Molina
 
 Configura el archivo de registro (software_fj.log) donde queda anotado cada
 evento importante y cada error del sistema. Ofrece tres funciones:
