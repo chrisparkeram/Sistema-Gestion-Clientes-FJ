@@ -2,7 +2,7 @@
 Ejercicio 1: Sistema Integral de Gestión de Clientes, Servicios y Reservas
 Curso: Programación (213023) - Fase 4
 Tema: Programación orientada a objetos y manejo avanzado de excepciones
-Christian Melo Amaya
+Christian Melo Amaya y Eduardo Luis Flores Molina
 
 Define las excepciones personalizadas del sistema. Todas heredan de
 SoftwareFJError y se anotan solas en el log al crearse. Cubren datos inválidos,
