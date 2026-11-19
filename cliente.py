@@ -2,7 +2,7 @@
 Ejercicio 1: Sistema Integral de Gestión de Clientes, Servicios y Reservas
 Curso: Programación (213023) - Fase 4
 Tema: Programación orientada a objetos y manejo avanzado de excepciones
-Christian Melo Amaya
+Christian Melo Amaya y Eduardo Luis Flores Molina
 
 Define la clase Cliente (encapsulación): sus datos personales son privados y
 se manejan con getters, setters y validaciones robustas de nombre, documento
