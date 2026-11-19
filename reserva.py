@@ -4,7 +4,7 @@ SERVICIOS Y RESERVAS
 Curso: Programación (213023)
 Fase: 4
 Tema: Programación orientada a objetos y manejo avanzado de excepciones
-Autor: Christian Melo Amaya y Eduardo Luis Molina
+Autor: Christian Melo Amaya y Eduardo Luis Flores Molina
 Descripción: El archivo reserva.py es el encargado de controlar el proceso de las reservas
 dentro del proyecto, esto permite una realcion correcta entre los clientes y los servicios. En este archivo
 se aplican abstraccion, herencia, polimorfismo, encapsulacion y manejo de excepciones. Adicional a esto 
