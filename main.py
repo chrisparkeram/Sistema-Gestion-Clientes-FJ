@@ -10,7 +10,7 @@ los diferentes modulos del sistema.
 En el inicio importa de los demas archivos del programa herramientas necesarias y configurar el registro
 de eventos. Luego se ejecuta la funcion simulacion, en donde se realiza 10 pruebas del proyecto.
 Este programa utiliza  ciclos For, para recorrer las listas y mostrar los clientes, servicios y reservas registrados,
-igualmanera  muesta la donde esta el archivo logs, donde quedan guardados los eventos y errores.
+igualmanera  muestra donde esta el archivo logs, donde quedan guardados los eventos y errores.
 """
 
 # Se importa el módulo os para obtener la ubicacon del archivo log.
